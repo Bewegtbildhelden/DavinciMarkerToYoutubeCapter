@@ -1,4 +1,4 @@
-# DavincoMarkerToYoutubeCapter
+# DavinciMarkerToYoutubeCapter
 
 **Author:** Tom Bechtloff  
 **License:** Free to use, modify, and distribute for personal or educational use.  
